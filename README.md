@@ -16,5 +16,7 @@ Este projeto utiliza o Selenium para automatizar o envio de mensagens pelo Whats
   python3.11 --version
 
 - **Instale as bibliotecas ncecessárias**:
-```bash
-pip install -r requirements.txt```
+
+  
+  ```bash
+  pip install -r requirements.txt
