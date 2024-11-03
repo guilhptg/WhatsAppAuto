@@ -11,5 +11,10 @@ Este projeto utiliza o Selenium para automatizar o envio de mensagens pelo Whats
 
 ## Pré-requisitos
 - **Python 3.11**: Verifique se o Python 3.11 está instalado:
+
   ```bash
   python3.11 --version
+
+- **Instale as bibliotecas ncecessárias**:
+```bash
+pip install -r requirements.txt```
